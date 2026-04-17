@@ -4,11 +4,11 @@ import aiohttp
 import time
 
 # Target Configuration
-URL = "http://10.4.34.253/vote.php"
+URL = "http://10.4.34.253/vote.php" # Change to target IP
 # Target thats being voted.
-CANDIDATE_ID = "9"
+CANDIDATE_ID = "9" # Change to fit your Canditate ID
 # Number of Connections open at the Same time. 
-CONCURRENT = 3000 # [CONCURRENT]
+CONCURRENT = 3000 # [CONCURRENT] Increase or Decrease based on PC Performance.
 
 async def fire_vote(session, semaphore):
 # Semaphore is like a bouncer at a club. It ensures only [CONCURRENT] number of tasks run at once to prevent OS crashes.
