@@ -1,3 +1,10 @@
+# -------------------------------------------------------------------------
+# StressTestVoteSystem - RigVotes.py
+# Created by: Vinoshan (@Kryrzen)
+# Description: Educational lab tool for testing TCP persistence/concurrency.
+# License: MIT (See LICENSE file for details)
+# -------------------------------------------------------------------------
+
 #Libraries
 import asyncio
 import aiohttp
