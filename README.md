@@ -58,3 +58,8 @@ OSError [Errno 24]: This means you've hit your OS limit for open files. Lower th
 Status 503/504: These HTTP codes indicate the server's backend (PHP or Database) has crashed under the load.
 
 Educational Disclaimer: This tool is strictly for authorized testing in a controlled lab environment. Unauthorized use against systems you do not own is illegal and unethical.
+---
+
+## Author
+**Vinoshan**
+*Currently pursuing & exploring network automation.*
