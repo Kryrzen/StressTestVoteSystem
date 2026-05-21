@@ -1,4 +1,4 @@
-# StressTestVoteSystem: Lab Challenge
+# RigVotes: Lab Challenge
 
 **Objective:** Try to figure out the webserver and give yourself as much votes as you can.
 
