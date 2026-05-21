@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-The **StressTestVoteSystem** is an educational project designed to demonstrate how asynchronous programming and TCP persistence can be used to test the limits of a web application. 
+The **RigVotes** is an educational project designed to demonstrate how asynchronous programming and TCP persistence can be used to test the limits of a web application. 
 
 This lab uses "RigVotes.py", a script built with the aiohttp library. Unlike traditional "synchronous" scripts that send one request and wait for a response, this script utilizes an **Asynchronous Event Loop** to manage thousands of simultaneous connections.
 
